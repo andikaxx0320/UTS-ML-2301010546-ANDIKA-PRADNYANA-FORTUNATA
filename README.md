@@ -6,9 +6,13 @@ NIM   : 2301010546
 
 KELAS : XX
 
-PERNYATAAN PENGGUNAAN AI
+Pernyataan Penggunaan AI
 
-Saya menggunakan AI Gemini untuk membantu saya membuat codingan di google colab. Disetiap bagian codingan saya memakai AI yang membantu saya memberikan codingan khususnya codingan yang berisi grafik. saya sesuaikan dengan dataset dan keperluan dari dataset saya.
+Dalam pengerjaan proyek ini, saya menggunakan Gemini sebagai alat bantu untuk memahami konsep Machine Learning, menyusun tahapan pengerjaan, membantu penulisan kode Python, memahami hasil evaluasi model, serta mempersiapkan materi presentasi.
+
+Pemeriksaan hasil dilakukan dengan menjalankan kode pada Google Colab, memeriksa output yang dihasilkan, dan mempelajari fungsi serta tujuan setiap tahapan pengerjaan.
+
+Penggunaan AI bertujuan membantu proses pembelajaran dan tidak menggantikan tanggung jawab saya dalam memahami serta menjelaskan hasil proyek.
 
 TOOLS:
 * Google Colab
@@ -20,3 +24,11 @@ TOOLS:
 * Seaborn
 * Scikit-learn
 * GitHub
+
+Cara Menjalankan Proyek
+
+1. Unduh dataset asli melalui sumber yang dicantumkan.
+2. Buka file notebook menggunakan Google Colab.
+3. Unggah dataset ketika diminta oleh notebook dalam kondisi saya bisa diungguah ke drive dan disesuaikan letaknya.
+4. Pilih Runtime → Run all.
+5. Periksa hasil visualisasi, pemodelan, dan evaluasi.
