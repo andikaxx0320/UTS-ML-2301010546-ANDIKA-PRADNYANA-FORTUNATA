@@ -1,7 +1,9 @@
 # UTS-ML
 
 NAMA  : Andika Pradnyana Fortunata
+
 NIM   : 2301010546
+
 KELAS : XX
 
 PERNYATAAN PENGGUNAAN AI
