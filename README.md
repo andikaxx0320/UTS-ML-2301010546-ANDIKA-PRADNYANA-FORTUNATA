@@ -11,7 +11,12 @@ PERNYATAAN PENGGUNAAN AI
 Saya menggunakan AI Gemini untuk membantu saya membuat codingan di google colab. Disetiap bagian codingan saya memakai AI yang membantu saya memberikan codingan khususnya codingan yang berisi grafik. saya sesuaikan dengan dataset dan keperluan dari dataset saya.
 
 TOOLS:
-
--Gemini
-
--Google Colab
+* Google Colab
+* Google Drive
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* GitHub
