@@ -8,7 +8,7 @@ KELAS : XX
 
 Pernyataan Penggunaan AI
 
-Dalam pengerjaan proyek ini, saya menggunakan Gemini sebagai alat bantu untuk memahami konsep Machine Learning, menyusun tahapan pengerjaan, membantu penulisan kode Python, memahami hasil evaluasi model, serta mempersiapkan materi presentasi.
+Dalam pengerjaan proyek ini, saya menggunakan Gemini sebagai alat bantu untuk memahami konsep Machine Learning, menyusun tahapan pengerjaan, membantu penulisan kode Python, memahami hasil evaluasi model.
 
 Pemeriksaan hasil dilakukan dengan menjalankan kode pada Google Colab, memeriksa output yang dihasilkan, dan mempelajari fungsi serta tujuan setiap tahapan pengerjaan.
 
